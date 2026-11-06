@@ -67,7 +67,7 @@ The program recommends books by matching the genre selected by the user with the
 
 This project helped me practise Python, create a GUI with Tkinter and store and search book details using SQLite3.
 
-##Team Members 
+## Team Members 
 Priyani Ghosh (Team Leader)
 Shama Parveen 
 Prodyut Dey 
