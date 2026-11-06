@@ -74,4 +74,4 @@ Shama Parveen
 
 Prodyut Dey 
 
-Khushtar Nawaz
+Md Khushtar Nawaz
